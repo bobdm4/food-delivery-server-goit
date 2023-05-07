@@ -11,7 +11,7 @@
     "license": "ISC",
     "dependencies": {
         "morgan": "^1.9.1",
-        "nodemon": "^1.18.4",
+        "nodemon": "^2.0.22",
         "qs": "^6.9.1",
         "url": "^0.11.0"
     }
